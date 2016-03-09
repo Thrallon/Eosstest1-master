@@ -9,12 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    >
+    tools:context="com.example.thrallon.eosstest1.kentra_dianomis"
+    tools:showIn="@layout/activity_kentra_dianomis">
 
-    <ListView
-        android:id="@+id/listView1"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:background="#ccc987"
-        />
 </RelativeLayout>

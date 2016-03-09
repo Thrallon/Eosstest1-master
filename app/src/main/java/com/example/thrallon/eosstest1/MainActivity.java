@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
-import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
@@ -83,9 +82,9 @@ public class MainActivity extends AppCompatActivity
             Intent intent4 = new Intent(getApplicationContext(),Activity_Stoixeia.class);
             startActivity(intent4);
 
-        } else if (id == R.id.nav_Ambelones) {
+        } else if (id == R.id.nav_Dianomi) {
 
-            Intent intent3 = new Intent(getApplicationContext(),ActivitySwap.class);
+            Intent intent3 = new Intent(getApplicationContext(),kentra_dianomis.class);
            startActivity(intent3);
 
 

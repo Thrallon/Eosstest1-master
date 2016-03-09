@@ -20,8 +20,8 @@ public class Krasia extends AppCompatActivity {
         ListView listView3 = (ListView) findViewById(R.id.listView1);
 
         Product[] items = {
-                new Product(1, "Γλυκά Κρασία"),
-                new Product(2, "Ξηρά Κρασία"),
+                new Product(1, "Γλυκά Κρασιά"),
+                new Product(2, "Ξηρά Κρασιά"),
 
         };
 

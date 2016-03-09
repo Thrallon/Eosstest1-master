@@ -86,4 +86,5 @@
     <string name="title_activity_main22">Main22Activity</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_activity_swap">ActivitySwap</string>
+    <string name="title_activity_kentra_dianomis">kentra_dianomis</string>
 </resources>
